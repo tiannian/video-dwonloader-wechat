@@ -1,0 +1,87 @@
+{
+    "url": "https://www.bilibili.com/video/BV1nb4y1D78j?spm_id_from=333.851.b_7265636f6d6d656e64.4",
+    "title": "【快乐小秦】#检测直播间男同浓度# - 小秦直播集锦#21（熟狗）",
+    "site": "Bilibili",
+    "streams": {
+        "flv": {
+            "container": "flv",
+            "quality": "高清 1080P",
+            "size": 629948995,
+            "src": [
+                "http://cn-cq-gd-bcache-11.bilivideo.com/upgcxcode/16/87/323688716/323688716-1-80.flv?e=ig8euxZM2rNcNb4H7WdVhoM3nWUVhwdEto8g5X10ugNcXBlqNxHxNEVE5XREto8KqJZHUa6m5J0SqE85tZvEuENvNC8xNEVE9EKE9IMvXBvE2ENvNCImNEVEK9GVqJIwqa80WXIekXRE9IMvXBvEuENvNCImNEVEua6m2jIxux0CkF6s2JZv5x0DQJZY2F8SkXKE9IB5QK==&deadline=1618326292&gen=playurl&nbs=1&oi=660785210&os=bcache&platform=pc&trid=4724daf191e94974879b967cb50a0851&uipk=5&upsig=c551e25c8ec637f5ab640376bab50ffb&uparams=e,deadline,gen,nbs,oi,os,platform,trid,uipk&mid=0"
+            ]
+        },
+        "flv480": {
+            "container": "flv",
+            "quality": "清晰 480P",
+            "size": 204098193,
+            "src": [
+                "http://cn-cq-gd-bcache-17.bilivideo.com/upgcxcode/16/87/323688716/323688716-1-32.flv?e=ig8euxZM2rNcNbNHhwdVhoMgnWdVhwdEto8g5X10ugNcXBlqNxHxNEVE5XREto8KqJZHUa6m5J0SqE85tZvEuENvNC8xNEVE9EKE9IMvXBvE2ENvNCImNEVEK9GVqJIwqa80WXIekXRE9IMvXBvEuENvNCImNEVEua6m2jIxux0CkF6s2JZv5x0DQJZY2F8SkXKE9IB5QK==&deadline=1618326292&gen=playurl&nbs=1&oi=660785210&os=bcache&platform=pc&trid=f8641f2b595d422888f74f6c356e1c6a&uipk=5&upsig=721ca4696b3a86af6ca8a932e8d5d024&uparams=e,deadline,gen,nbs,oi,os,platform,trid,uipk&mid=0"
+            ]
+        },
+        "flv360": {
+            "container": "flv",
+            "quality": "流畅 360P",
+            "size": 93519382,
+            "src": [
+                "http://cn-cq-gd-bcache-16.bilivideo.com/upgcxcode/16/87/323688716/323688716-1-16.mp4?e=ig8euxZM2rNcNbRzhbUVhoM1hzNBhwdEto8g5X10ugNcXBlqNxHxNEVE5XREto8KqJZHUa6m5J0SqE85tZvEuENvNC8xNEVE9EKE9IMvXBvE2ENvNCImNEVEK9GVqJIwqa80WXIekXRE9IMvXBvEuENvNCImNEVEua6m2jIxux0CkF6s2JZv5x0DQJZY2F8SkXKE9IB5QK==&deadline=1618326292&gen=playurl&nbs=1&oi=660785210&os=bcache&platform=pc&trid=cb4f9bbdac2c42bf85fc7d0ae5e8fa81&uipk=5&upsig=897a166e768e3b4c7e7bb34c02ddcc80&uparams=e,deadline,gen,nbs,oi,os,platform,trid,uipk&mid=0"
+            ]
+        },
+        "dash-flv": {
+            "container": "mp4",
+            "quality": "高清 1080P",
+            "src": [
+                [
+                    "https://cn-cq-gd-bcache-15.bilivideo.com/upgcxcode/16/87/323688716/323688716-1-30077.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1618326292&gen=playurlv2&os=bcache&oi=660785210&trid=98ca57af0c774464bbb2f599969d3c13u&platform=pc&upsig=845943adbdd3de3a0e70152234531218&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&cdnid=20310&mid=0&orderid=0,3&agrr=0&logo=80000000"
+                ],
+                [
+                    "https://upos-sz-mirrorks3o1.bilivideo.com/upgcxcode/16/87/323688716/323688716-1-30280.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1618326292&gen=playurlv2&os=ks3o1bv&oi=660785210&trid=98ca57af0c774464bbb2f599969d3c13u&platform=pc&upsig=f3583ea3f69d71091dcb1f67b353e1e7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&orderid=0,3&agrr=0&logo=80000000"
+                ]
+            ],
+            "size": 406273681
+        },
+        "dash-flv720": {
+            "container": "mp4",
+            "quality": "高清 720P",
+            "src": [
+                [
+                    "https://cn-cq-gd-bcache-24.bilivideo.com/upgcxcode/16/87/323688716/323688716-1-30076.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1618326292&gen=playurlv2&os=bcache&oi=660785210&trid=98ca57af0c774464bbb2f599969d3c13u&platform=pc&upsig=326d9d503bce9e3373e8696315c4ba12&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&cdnid=20319&mid=0&orderid=0,3&agrr=0&logo=80000000"
+                ],
+                [
+                    "https://upos-sz-mirrorks3o1.bilivideo.com/upgcxcode/16/87/323688716/323688716-1-30280.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1618326292&gen=playurlv2&os=ks3o1bv&oi=660785210&trid=98ca57af0c774464bbb2f599969d3c13u&platform=pc&upsig=f3583ea3f69d71091dcb1f67b353e1e7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&orderid=0,3&agrr=0&logo=80000000"
+                ]
+            ],
+            "size": 303469792
+        },
+        "dash-flv480": {
+            "container": "mp4",
+            "quality": "清晰 480P",
+            "src": [
+                [
+                    "https://cn-cq-gd-bcache-06.bilivideo.com/upgcxcode/16/87/323688716/323688716-1-30033.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1618326292&gen=playurlv2&os=bcache&oi=660785210&trid=98ca57af0c774464bbb2f599969d3c13u&platform=pc&upsig=bdb5f1d698b6dba0a07828f6026af275&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&cdnid=20301&mid=0&orderid=0,3&agrr=0&logo=80000000"
+                ],
+                [
+                    "https://upos-sz-mirrorks3o1.bilivideo.com/upgcxcode/16/87/323688716/323688716-1-30280.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1618326292&gen=playurlv2&os=ks3o1bv&oi=660785210&trid=98ca57af0c774464bbb2f599969d3c13u&platform=pc&upsig=f3583ea3f69d71091dcb1f67b353e1e7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&orderid=0,3&agrr=0&logo=80000000"
+                ]
+            ],
+            "size": 175343340
+        },
+        "dash-flv360": {
+            "container": "mp4",
+            "quality": "流畅 360P",
+            "src": [
+                [
+                    "https://cn-cq-gd-bcache-25.bilivideo.com/upgcxcode/16/87/323688716/323688716-1-30016.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1618326292&gen=playurlv2&os=bcache&oi=660785210&trid=98ca57af0c774464bbb2f599969d3c13u&platform=pc&upsig=7f7b94919b5fde5e24c79bd7dc8cf499&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&cdnid=20320&mid=0&orderid=0,3&agrr=0&logo=80000000"
+                ],
+                [
+                    "https://upos-sz-mirrorcoso1.bilivideo.com/upgcxcode/16/87/323688716/323688716-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1618326292&gen=playurlv2&os=coso1bv&oi=660785210&trid=98ca57af0c774464bbb2f599969d3c13u&platform=pc&upsig=f16220a7988968406ceabd5e286b5b7c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&orderid=0,3&agrr=0&logo=80000000"
+                ]
+            ],
+            "size": 92362160
+        }
+    },
+    "extra": {
+        "referer": "https://www.bilibili.com/video/BV1nb4y1D78j?spm_id_from=333.851.b_7265636f6d6d656e64.4",
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36"
+    }
+}
